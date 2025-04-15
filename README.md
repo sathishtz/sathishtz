@@ -2,8 +2,8 @@
 - 👀 I’m interested in programming and problem solving💻.
 - 🌱 I’m currently learning python🐍.
 - 💞️ I’m looking to collaborate on python learners📚.
-- 📫 How to reach me in github to enter the username sathishtz.
-- 😄 Pronouns:sathish.
+- 📫 How to reach me in github to enter the username:-sathishtz.
+- 😄 Pronouns:-sathish.
 - ⚡ Fun fact:learn to code👨‍💻.
 -
 
