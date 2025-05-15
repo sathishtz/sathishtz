@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python🐍.
 - 💞️ I’m looking to collaborate on python learners📚.
 - 📫 How to reach me in github to enter the username:-sathishtz.
-- 😄 Pronouns:-sathish.
+- 😄 Pronouns:-sathish..!
 - ⚡ Fun fact:learn to code👨‍💻.
 -
 
